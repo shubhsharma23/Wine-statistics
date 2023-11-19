@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  margin: 20px;
 }
 
 .App-logo {
@@ -35,4 +35,33 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+/* CSS for the table */
+table {
+  /* width: 100%; */
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+/* CSS for table header cells */
+th {
+  border: 1px solid black;
+  padding: 12px;
+  text-align: center;
+}
+
+/* CSS for table data cells */
+td {
+  border: 1px solid black;
+  padding: 12px;
+  text-align: center;
+}
+
+/* CSS for table heading */
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
 }
