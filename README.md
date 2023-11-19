@@ -21,4 +21,4 @@ This project is a statistical analysis tool for wine data, aimed at calculating 
 To start the application, run the following command:
 `yarn start`
 
-![Screenshot](image.png)
+![Screenshot](public/image.png)
