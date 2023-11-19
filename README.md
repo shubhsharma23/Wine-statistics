@@ -8,11 +8,13 @@ This project is a statistical analysis tool for wine data, aimed at calculating 
 - Node.js (at least v12.0.0)
 - yarn
 
+use 
+
 ### Installation
 
 1. Clone this repository to your local machine using `git clone https://github.com/shubhsharma23/Wine-statistics.git`.
 2. Navigate to the project directory: `cd wine-statistics-project`.
-3. Install dependencies:
+3. Install dependencies: `yarn install`
 
 ## Usage
 
